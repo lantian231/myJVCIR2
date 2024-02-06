@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38209d20-2a80-4dcb-9d6e-a0c88a45291d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M2R9ZhMJTXgjhNcnJG4x9FRwO1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/LL_duibifangfa/RetinexNet-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\lilong\研究生的活\苏老师任务\卫师兄项目\low light\SGN_DLN_new" />
+      <recent name="F:\lilong\研究生的活\苏老师任务\卫师兄项目\low light\SGN_DLN_new\datasets\LOL" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.model_shoulian_curve">
+    <configuration name="eval_ll2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SGN_DLN_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eval_ll2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_shoulian_curve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SGN_DLN_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_shoulian_curve.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SGN_DLN_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testDeltaE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SGN_DLN_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testDeltaE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testLIPPS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SGN_DLN_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testLIPPS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.model_shoulian_curve" />
+        <item itemvalue="Python.testDeltaE" />
+        <item itemvalue="Python.testLIPPS" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.eval_ll2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38209d20-2a80-4dcb-9d6e-a0c88a45291d" name="Default Changelist" comment="" />
+      <created>1676963539237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676963539237</updated>
+      <workItem from="1676963552855" duration="7861000" />
+      <workItem from="1677069813461" duration="1433000" />
+      <workItem from="1677071408712" duration="10531000" />
+      <workItem from="1679641876053" duration="3466000" />
+      <workItem from="1680446514289" duration="661000" />
+      <workItem from="1680577023804" duration="734000" />
+      <workItem from="1680838641110" duration="1268000" />
+      <workItem from="1680857952699" duration="10238000" />
+      <workItem from="1681442465020" duration="17714000" />
+      <workItem from="1681630231760" duration="13255000" />
+      <workItem from="1681702263319" duration="55763000" />
+      <workItem from="1682315930626" duration="650000" />
+      <workItem from="1682317352340" duration="24000" />
+      <workItem from="1682831342957" duration="131193000" />
+      <workItem from="1684669728568" duration="8781000" />
+      <workItem from="1684756883933" duration="10158000" />
+      <workItem from="1684827503732" duration="8259000" />
+      <workItem from="1684983107730" duration="18085000" />
+      <workItem from="1685083018076" duration="2274000" />
+      <workItem from="1685091172537" duration="55974000" />
+      <workItem from="1685957327957" duration="45750000" />
+      <workItem from="1686817688115" duration="595000" />
+      <workItem from="1688281064688" duration="5289000" />
+      <workItem from="1689303547788" duration="2277000" />
+      <workItem from="1689580971757" duration="1610000" />
+      <workItem from="1690202746039" duration="208000" />
+      <workItem from="1690291217993" duration="14429000" />
+      <workItem from="1691651786906" duration="16413000" />
+      <workItem from="1693821121793" duration="5184000" />
+      <workItem from="1694001420258" duration="1331000" />
+      <workItem from="1694062456256" duration="9966000" />
+      <workItem from="1694691357294" duration="1253000" />
+      <workItem from="1695106648583" duration="7431000" />
+      <workItem from="1695128724313" duration="974000" />
+      <workItem from="1695203143862" duration="4699000" />
+      <workItem from="1697428402140" duration="6739000" />
+      <workItem from="1697700347773" duration="1607000" />
+      <workItem from="1698203087476" duration="1841000" />
+      <workItem from="1698299958326" duration="436000" />
+      <workItem from="1698300835029" duration="10014000" />
+      <workItem from="1698840695256" duration="2476000" />
+      <workItem from="1700019392404" duration="6255000" />
+      <workItem from="1700028917553" duration="6265000" />
+      <workItem from="1700042353094" duration="2283000" />
+      <workItem from="1700484051136" duration="4753000" />
+      <workItem from="1700721173512" duration="6123000" />
+      <workItem from="1701236870322" duration="32000" />
+      <workItem from="1701335869409" duration="995000" />
+      <workItem from="1701680195742" duration="83000" />
+      <workItem from="1701830015199" duration="8384000" />
+      <workItem from="1702021428101" duration="980000" />
+      <workItem from="1702460383464" duration="16936000" />
+      <workItem from="1703080886663" duration="13557000" />
+      <workItem from="1703222973510" duration="2209000" />
+      <workItem from="1703574665058" duration="1883000" />
+      <workItem from="1703580938223" duration="1347000" />
+      <workItem from="1703583462075" duration="42000" />
+      <workItem from="1704264897694" duration="4251000" />
+      <workItem from="1705298494815" duration="2487000" />
+      <workItem from="1705313594359" duration="12596000" />
+      <workItem from="1705499748996" duration="20697000" />
+      <workItem from="1705843074522" duration="7191000" />
+      <workItem from="1706006828422" duration="2599000" />
+      <workItem from="1706191295165" duration="1233000" />
+      <workItem from="1706963489251" duration="4253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="atten.shape" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$eval_ll2_unpair.coverage" NAME="eval_ll2-unpair Coverage Results" MODIFIED="1700033843148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$eval_zj.coverage" NAME="eval_zj Coverage Results" MODIFIED="1705490184453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$calu_niqe.coverage" NAME="calu_niqe Coverage Results" MODIFIED="1700034434816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$Canny.coverage" NAME="Canny Coverage Results" MODIFIED="1703143902243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$eval_ll2.coverage" NAME="eval_ll2 Coverage Results" MODIFIED="1705836687143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$sulaoshiwork.coverage" NAME="sulaoshiwork Coverage Results" MODIFIED="1692002200850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$super_pixel.coverage" NAME="super_pixel Coverage Results" MODIFIED="1703143561446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$draw_GAUSS.coverage" NAME="draw_GAUSS Coverage Results" MODIFIED="1701832373053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$model_simplify229.coverage" NAME="model_simplify229 Coverage Results" MODIFIED="1703084068772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$train_LOL_simplify229_smooth3.coverage" NAME="train_LOL_simplify229_smooth3 Coverage Results" MODIFIED="1705653984981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$jpg_to_png.coverage" NAME="jpg_to_png Coverage Results" MODIFIED="1684404158736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../2023.5.17,对比试验/URetinex-Net-main" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$big_test.coverage" NAME="big_test Coverage Results" MODIFIED="1700021990911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$bisaihuatu.coverage" NAME="bisaihuatu Coverage Results" MODIFIED="1690535804235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$caculate_NIQE.coverage" NAME="caculate_NIQE Coverage Results" MODIFIED="1684312137301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$caozuoclient.coverage" NAME="caozuoclient Coverage Results" MODIFIED="1690340345588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$png_to_jpg.coverage" NAME="png_to_jpg Coverage Results" MODIFIED="1700032445924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$train_LOL_simplify229_smooth5.coverage" NAME="train_LOL_simplify229_smooth5 Coverage Results" MODIFIED="1677068158128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$image_resize.coverage" NAME="image_resize Coverage Results" MODIFIED="1702478504933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$caozuoserver.coverage" NAME="caozuoserver Coverage Results" MODIFIED="1690340340272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$testDeltaE.coverage" NAME="testDeltaE Coverage Results" MODIFIED="1705897547242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$night2day6guass.coverage" NAME="night2day6guass Coverage Results" MODIFIED="1693827564129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$test.coverage" NAME="test Coverage Results" MODIFIED="1705836967365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$testLIPPS.coverage" NAME="testLIPPS Coverage Results" MODIFIED="1705897520522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$image_cut.coverage" NAME="image_cut Coverage Results" MODIFIED="1689581421649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$evaluate.coverage" NAME="evaluate Coverage Results" MODIFIED="1700032841742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$model_shoulian_curve.coverage" NAME="model_shoulian_curve Coverage Results" MODIFIED="1707104872447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$night2day5.coverage" NAME="night2day5 Coverage Results" MODIFIED="1693827828847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$sulaoshiwork2.coverage" NAME="sulaoshiwork2 Coverage Results" MODIFIED="1692001294722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SGN_DLN_new$see_Learning_rate.coverage" NAME="see_Learning_rate Coverage Results" MODIFIED="1683366078323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
